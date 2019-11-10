@@ -18,3 +18,6 @@ En este ejercicio se solicita continuar con el programa diseñado previamente "p
 – Llame al método puerta() varias veces.
 
 ![Lección 7_5_1_2 Interacción de objetos](https://user-images.githubusercontent.com/54320247/68540938-d2670f00-035e-11ea-90ec-28f665b044d2.jpg)
+
+Esta vez se pide cambiar el campo de la clase "celda" a private y notar el error que se detecta.
+
