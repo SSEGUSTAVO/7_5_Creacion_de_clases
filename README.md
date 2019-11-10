@@ -34,3 +34,4 @@ Finalmente se solicita lo siguiente:
 • El método display() imprima el nombre de la celda.
 • Se elimine el método puerta().
 
+![Lección 7_6_1_1](https://user-images.githubusercontent.com/54320247/68541083-d6942c00-0360-11ea-81d1-68bd9fd30710.jpg)
