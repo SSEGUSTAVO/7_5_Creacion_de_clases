@@ -4,4 +4,16 @@ En este ejercicio se solicita continuar con el programa diseñado previamente "p
 
 ![Lección 7_5_1_1](https://user-images.githubusercontent.com/54320247/68538976-8c9c4d80-0342-11ea-9438-c15835b7fe32.jpg)
 
-Áhora se solicita crear un método "abrircelda"
+Áhora se pide realizar lo siguiente:
+
+• Escriba un método puerta() para la clase Prisoner.
+– Acceda y modifique el campo correspondiente en el objeto Cell para que:
+  a) Si la puerta está cerrada, se abra.
+  b) Si la puerta está abierta, se cierre.
+– Imprima si la puerta está abierta o cerrada.
+
+• En el método main:
+– Instancie un objeto Celda y Prisoner.
+– Llame al método display() del objeto Prisoner una vez.
+– Llame al método puerta() varias veces.
+
