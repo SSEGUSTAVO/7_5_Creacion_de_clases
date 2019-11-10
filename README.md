@@ -17,3 +17,4 @@ En este ejercicio se solicita continuar con el programa diseñado previamente "p
 – Llame al método display() del objeto Prisoner una vez.
 – Llame al método puerta() varias veces.
 
+![Lección 7_5_1_2 Interacción de objetos](https://user-images.githubusercontent.com/54320247/68540938-d2670f00-035e-11ea-90ec-28f665b044d2.jpg)
