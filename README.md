@@ -21,3 +21,4 @@ En este ejercicio se solicita continuar con el programa diseñado previamente "p
 
 Esta vez se pide cambiar el campo de la clase "celda" a private y notar el error que se detecta.
 
+![Lección 7_5_1_2 Interacción de objetos 2](https://user-images.githubusercontent.com/54320247/68540976-5c16dc80-035f-11ea-8053-7cc7ceb6bcb7.jpg)
