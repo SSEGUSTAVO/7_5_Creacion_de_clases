@@ -22,3 +22,15 @@ En este ejercicio se solicita continuar con el programa diseñado previamente "p
 Esta vez se pide cambiar el campo de la clase "celda" a private y notar el error que se detecta.
 
 ![Lección 7_5_1_2 Interacción de objetos 2](https://user-images.githubusercontent.com/54320247/68540976-5c16dc80-035f-11ea-8053-7cc7ceb6bcb7.jpg)
+
+Finalmente se solicita lo siguiente:
+• Modifique la clase Cell de modo que haya métodos getter para todos los campos.
+• Exista un campo de código de seguridad de 4 dígitos. 
+• Haya un método setter para abrir y cerrar la puerta ceptando un código de seguridad como argumento.
+• Imprime si el código es incorrecto.
+• Si el código es correcto y la puerta está cerrada, se abre.
+• Si el código es correcto y la puerta está abierta, la cierra.
+• Imprime si la puerta está abierta o cerrada.
+• El método display() imprima el nombre de la celda.
+• Se elimine el método puerta().
+
